@@ -5,7 +5,13 @@ under the scientific guidance of Dr.Papapantoleon.
 All the different files in python are subject to chapters of this lesson.
 
 In order to run the uploaded files you have to install python 3 from here https://www.python.org/downloads/ or (preferred) to download Anaconda from
-here https://www.anaconda.com/products/individual and open Jupyter Notebook. 
+here https://www.anaconda.com/products/individual.
+
+
+Downloading Anaconda is preferred because it has already downloaded for you all the necessary modules to run these scripts.
+If you have downloaded Anaconda when you open this app a window will open that will let you choose the preferred platform to run python code.
+By selecting the Jupyter Notebook your terminal or msdos window will open and start running  along with a new tab that will open on your browser.
+On your up right side of screen hit the button 'New' by selecting "Python 3".Voila..!!!Just copy and paste the code from the uploaded files in this repository.
 
 Hope you find it helpful in order to understand the implementation of numerical methods in stochastic processes.
 
