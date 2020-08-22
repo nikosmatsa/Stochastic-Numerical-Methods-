@@ -7,5 +7,5 @@ All the different files in python are subject to chapters of this lesson.
 In order to run the uploaded files you have to install python 3 from here https://www.python.org/downloads/ or (preferred) to download Anaconda from
 here https://www.anaconda.com/products/individual and open Jupyter Notebook. 
 
-Hope you find it helpful in order to understand the implementation of numerical methods in staochastic processes.
+Hope you find it helpful in order to understand the implementation of numerical methods in stochastic processes.
 
