@@ -9,3 +9,10 @@ here https://www.anaconda.com/products/individual and open Jupyter Notebook.
 
 Hope you find it helpful in order to understand the implementation of numerical methods in stochastic processes.
 
+Have fun with the code.
+Feel free to play with the code.
+Respect your mathematician teacher.
+
+
+
+
