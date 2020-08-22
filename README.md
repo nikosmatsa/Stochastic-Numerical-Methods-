@@ -2,7 +2,7 @@
 
 This repository is part of my work in the lesson of Stochastic Numerical Methods in my MS.c in Applied Mathematical Sciences in NTUA,
 under the scientific guidance of professor Dr.Papapantoleon.
-All the different files in python are subject to chapters of this lesson.
+All the different files in python are subject to chapters of Dr.Papapantoleon notes on this lesson.
 
 In order to run the uploaded files you have to install python 3 from here https://www.python.org/downloads/ or (preferred) to download Anaconda from
 here https://www.anaconda.com/products/individual.
